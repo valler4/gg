@@ -1,4 +1,5 @@
 <a href="2.php">2</a>
+<a href="3.php">3</a>
 <?php
   date_default_timezone_set("Africa/Cairo");
 
